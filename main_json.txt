@@ -1,0 +1,27 @@
+{
+    "users":[
+        22725531, //Fo_nz: Bought horse tech
+        734533150, // AlexanderOfSerbia: Bought horse tech
+        106377417, //Monotter: Owner
+        1922495007, //BeatlessOghuz: Altaccount of Monotter
+        309801359, //OghuzVonDietrich: Uh... A person given access by Owners
+        19709139, //IltrdsNoble that get access from daniel
+        2046099377, // Won Event Fom MyGames Discord
+        32871736, // 80k group holder also bought
+        42921866, // waterloo at home
+        654744040, // Bought horse tech
+        125054308, // Bought horse
+        1994595371 // Bought horse
+    ],
+    "groups":[
+        4850931, //Group of Owner
+        80738, // Bought Horse Tech
+        10089705, // Bought Horse Tech
+        9443009, // Bought Horse Tech
+        10740079, // MyGames Developer
+        11585550, // Bought Horse Tech
+        7523945, // Uh... A group given access by Owners
+        11773697, // Won Giveaway From MyGames Discord
+        8222183 // Bought Horse Tech
+    ]
+}
